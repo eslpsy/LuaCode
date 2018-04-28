@@ -1,3 +1,4 @@
+-- lua模拟stack
 local stack = {}  
 stack.__index = stack  
   
